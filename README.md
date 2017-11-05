@@ -11,7 +11,7 @@ You should only need to clone this project if you are modifying the giter8 templ
 If you want to create a project:
 
 ```
-sbt new playframework/play-scala-seed.g8
+sbt new vadimbakaev/play-scala-seed.g8
 ```
 
 ## Scaffolding 
